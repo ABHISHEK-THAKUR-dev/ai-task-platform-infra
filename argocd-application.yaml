@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     # Point this at your Infrastructure Repository (not the app code repo)
-    repoURL: https://github.com/YOUR_USERNAME/ai-task-platform-infra.git
+    repoURL: https://github.com/ABHISHEK-THAKUR-dev/ai-task-platform-infra.git
     targetRevision: main
     path: k8s
   destination:

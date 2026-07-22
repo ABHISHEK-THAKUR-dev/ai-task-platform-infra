@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: YOUR_DOCKERHUB_USERNAME/ai-task-frontend:latest   # updated automatically by CI/CD
+          image: abhishek29thakur/ai-task-frontend:latest   # updated automatically by CI/CD
           ports:
             - containerPort: 8080
           resources:

@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: YOUR_DOCKERHUB_USERNAME/ai-task-backend:latest   # updated automatically by CI/CD
+          image: abhishek29thakur/ai-task-backend:latest   # updated automatically by CI/CD
           ports:
             - containerPort: 5000
           envFrom:
