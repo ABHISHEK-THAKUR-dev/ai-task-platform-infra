@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: abhishek29thakur/ai-task-backend:1c9821e
+          image: abhishek29thakur/ai-task-backend:e3b1be3
           ports:
             - containerPort: 5000
           envFrom:
