@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: abhishek29thakur/ai-task-frontend:6d5c0fd
+          image: abhishek29thakur/ai-task-frontend:fae438e
           ports:
             - containerPort: 8080
           resources:
