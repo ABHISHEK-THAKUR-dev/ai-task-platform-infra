@@ -8,5 +8,5 @@ data:
   MONGO_URI: "mongodb://mongo:27017/ai_task_platform"
   REDIS_URL: "redis://redis:6379"
   JWT_EXPIRES_IN: "7d"
-CORS_ORIGIN: "http://localhost:3000"
+  CORS_ORIGIN: "http://localhost:3000"
   VITE_API_URL: "https://api.example.com/api"
