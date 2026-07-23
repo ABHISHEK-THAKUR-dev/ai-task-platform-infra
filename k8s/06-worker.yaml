@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: worker
-          image: abhishek29thakur/ai-task-worker:682fc04
+          image: abhishek29thakur/ai-task-worker:e627d14
           envFrom:
             - configMapRef:
                 name: app-config
