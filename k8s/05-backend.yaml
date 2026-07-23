@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: abhishek29thakur/ai-task-backend:latest   # updated automatically by CI/CD
+          image: abhishek29thakur/ai-task-backend:0a02087
           ports:
             - containerPort: 5000
           envFrom:

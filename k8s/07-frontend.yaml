@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: abhishek29thakur/ai-task-frontend:latest   # updated automatically by CI/CD
+          image: abhishek29thakur/ai-task-frontend:0a02087
           ports:
             - containerPort: 8080
           resources:
